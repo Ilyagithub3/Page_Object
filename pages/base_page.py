@@ -1,5 +1,3 @@
-from conftest import browser
-
 
 class BasePage():
     def __init__(self, browser, url):
